@@ -53,3 +53,8 @@ https://arxiv.org/pdf/2103.01396|
 |8 |Dong, Qingxiu, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, and Zhifang Sui. "A survey on in-context learning." arXiv preprint arXiv:2301.00234 (2022). |https://arxiv.org/pdf/2301.00234 | ICL, survey|
 |9 |Dong, Zican, Tianyi Tang, Lunyi Li, and Wayne Xin Zhao. "A survey on long text modeling with transformers." arXiv preprint arXiv:2302.14502 (2023).|https://arxiv.org/pdf/2302.14502| Long-context modeling, survey|
 |10|Dong, Zican, Tianyi Tang, Lunyi Li, and Wayne Xin Zhao. "A survey on long text modeling with transformers." arXiv preprint arXiv:2302.14502 (2023). |https://arxiv.org/pdf/2405.07437 | RAG, survey|
+
+#### Data Augmentation
+|Index|Paper | Link | Note|
+|:-----|:-----|:-----|:----|
+|11|Peng, Letian, Yuwei Zhang, and Jingbo Shang. "Controllable Data Augmentation for Few-Shot Text Mining with Chain-of-Thought Attribute Manipulation." (2024).|https://arxiv.org/pdf/2307.07099| | 
